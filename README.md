@@ -1,4 +1,4 @@
-# BEiT-Scope: Automated Chest CT Anomaly Detection using Vision Transformers
+# BEiT-Scope: Automated Chest CT Anomaly Detection using Vision Transformer
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/microsoft/dit-base)
